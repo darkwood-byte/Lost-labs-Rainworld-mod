@@ -1,0 +1,6 @@
+Template: NONE
+CeilingDrips: 0.8369565
+Palette: 9
+Effects: Darkness-0.3478261-20-20, Moth-0.1413043-30-30, 
+PlacedObjects: InsectGroup><683.1948><530.7047><0~100~0~0~Moth~0.1304348, ReliableSpear><294.1201><288.5979><, 
+FadePalette: 0, 0.5326087

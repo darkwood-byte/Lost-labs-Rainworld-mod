@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 9
+FadePalette: 0, 0.7391304, 0.6630435
+BackgroundOffset: 5000,600
+BackgroundType: atc_oe_treetopview

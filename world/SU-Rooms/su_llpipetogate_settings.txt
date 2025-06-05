@@ -1,0 +1,10 @@
+DangerType: FloodAndRain
+WaveSpeed: 0.4934762
+WaveLength: 0.9967381
+WaveAmplitude: 0.011576
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 9
+Effects: Darkness-0.6195652-30-30, 
+PlacedObjects: LightSource><465.8055><734.2034><1~Environment~540~-193~50~86.60254~1~0~None~0~0, 
+FadePalette: 0, 0.6086956

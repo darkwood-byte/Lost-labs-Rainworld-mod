@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.9021739
+Grime: 0.5652174
+Palette: 9
+Effects: Darkness-0.7065217-298-126, Moth-0.5108696-294-23, DenseFog-0-133-88, Desaturation-0.09782609-0-0, 
+PlacedObjects: LightSource><83.91992><332.8555><1~Environment~-4~68~50~86.60254~1~0~None~0.5434783~0, InsectGroup><94.41211><318.8671><5~68~0~0~RockFlea~0.6086956, SteamPipe><386.8278><42.85161><0~100, LightSource><872.8873><332.0847><1~Environment~-56~51~50~86.60254~1~0~None~0~1, LightSource><710.655><352.324><1~Environment~30~45~50~86.60254~1~0~None~0~1, LightSource><413.1942><475.4521><1~Environment~3~59~50~86.60254~1~0~None~0~0, LightSource><364.7238><472.1983><1~Environment~5~28~50~86.60254~1~0~None~0~0, LightSource><570.4517><470.4441><1~Environment~6~47~50~86.60254~1~0~None~1~1, 
+FadePalette: 0, 0.3695652

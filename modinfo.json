@@ -1,0 +1,12 @@
+{
+    "id": "Lost Labs",
+    "name": "Lost Labs",
+    "version": "1.0.0",
+    "hide_version": false,
+    "authors": "Darkwood",
+    "description": "A small work in progres region mod that connects the entire downpour map",
+    "requirements": ["regionkit"],
+    "requirements_names": ["RegionKit"],
+    "checksum_override_version": false,
+    "tags": ["Regions"]
+}

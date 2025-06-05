@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Palette: 9
+Effects: Darkness-0.6086956-20-20, Moth-0.2391304-30-30, 
+PlacedObjects: LightSource><833.6><326.8678><1~Environment~71~-27~50~86.60254~1~0~None~0~0, LightSource><106.642><570.8591><1~Environment~89~101~50~86.60254~1~0~None~0~0, InsectGroup><112.4315><570.0621><0~100~0~0~Moth~0.5, CustomDecal><235.8307><320.6066><-8~247~173~266~147~-7~243~2~0~1~0~trammm~0.5~0.1304348~0.5~0.1304348~0.5~0.1304348~0.5~0.1304348, 
+FadePalette: 0, 0.4891304
